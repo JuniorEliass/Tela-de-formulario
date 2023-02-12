@@ -1,0 +1,15 @@
+.rodape {
+    display: flex;
+    justify-content: space-around;
+    background-color: #deeafc;
+    padding: 4rem 0;
+    width: 80%;
+}
+
+@media (min-width: 0px) and (max-width: 767px) {
+    .rodape {
+        flex-direction: column;
+    }
+}
+
+

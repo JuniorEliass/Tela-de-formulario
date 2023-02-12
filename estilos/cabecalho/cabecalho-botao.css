@@ -1,0 +1,35 @@
+.cabecalho__botao {
+    
+    color: #2A7AE4;
+    background-color: #FFFFFF;
+    border-color: #2A7AE4;
+    cursor: pointer;
+}
+
+@media (min-width: 0px) and (max-width: 768px) {
+    .cabecalho__botao {
+        width: 150px;
+        font-size: 14px;
+        padding: 5px;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    .cabecalho__botao {
+        width: 170px;
+        font-size: 16px;
+        font-size: 16px;
+        padding: 0.7rem;
+    }
+}
+
+@media (min-width: 1025px) {
+    .cabecalho__botao {
+        width: 181px;
+        font-size: 16px;
+        padding: 0.7rem;
+    }
+}
+
+
+

@@ -1,0 +1,6 @@
+.cabecalho {
+    height: 115px;
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+}

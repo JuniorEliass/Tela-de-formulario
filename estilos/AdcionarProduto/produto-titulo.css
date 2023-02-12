@@ -1,0 +1,26 @@
+.produto__titulo {
+    font-weight: 700;
+    color: #464646;
+    margin-bottom: 2rem;
+    margin-right: 11%;
+    font-family: 'Raleway', sans-serif;
+}
+
+@media (min-width: 0px) and (max-width: 768px) {
+    .produto__titulo {
+        font-size: 22px;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    .produto__titulo {
+        font-size: 22px;
+        margin-right: 55%;
+    }
+}
+
+@media (min-width: 1025px) {
+    .produto__titulo {
+        font-size: 32px;
+    }
+}

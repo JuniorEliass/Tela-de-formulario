@@ -1,0 +1,38 @@
+.cabecalho__search {
+    
+    border-radius: 20px;
+    border-style: none;
+    background-color: #F5F5F5;
+    background-image: url("../../imagens/lupa\ \(2\).png");
+    background-repeat: no-repeat;
+    background-position: right 11px top 7px;
+    margin-left: 40px;
+    
+}
+
+.cabecalho__search::placeholder {
+    color: #a2a2a2;
+    position: absolute;
+    top: 12px;
+    left: 10px;
+}
+
+@media (min-width: 0px) and (max-width: 767px) {
+    .cabecalho__search {
+        display: none;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    .cabecalho__search {
+        width: 272px;
+        height: 40px;
+    }
+}
+
+@media (min-width: 1025px) {
+    .cabecalho__search {
+        width: 392px;
+        height: 40px;
+    }
+}

@@ -1,0 +1,33 @@
+@import url("./estilos/cabecalho/cabecalho-menu.css");
+@import url("./estilos/cabecalho/cabecalho.css");
+@import url("./estilos/cabecalho/cabecalho-search.css");
+@import url("./estilos/cabecalho/cabecalho-logo.css");
+@import url("./estilos/cabecalho/cabecalho-botao.css");
+
+@import url("./estilos/AdcionarProduto/produto.css");
+@import url("./estilos/AdcionarProduto/produto-botao.css");
+@import url("./estilos/AdcionarProduto/produto-formulario.css");
+@import url("./estilos/AdcionarProduto/produto-titulo.css");
+
+@import url("./estilos/footer/footer.css");
+
+@import url("./estilos/footer/rodape/rodape-logo.css");
+@import url("./estilos/footer/rodape.css");
+@import url("./estilos/footer/rodape/Rodape.css");
+@import url("./estilos/footer/rodape/rodapelogo-imagem.css");
+@import url("./estilos/footer/rodape/rodapeLogo-tituloalura.css");
+@import url("./estilos/footer/rodape/rodapeLogo-titulogeek.css");
+
+@import url("./estilos/footer/rodape/rodape-links/rodape-links.css");
+@import url("./estilos/footer/rodape/rodape-links/rodapeLinks-itens.css");
+
+@import url("./estilos/footer/rodape-formulario/rodapeFormulario-botao.css");
+@import url("./estilos/footer/rodape-formulario/rodapeFormulario-form.css");
+@import url("./estilos/footer/rodape-formulario/rodapeFormulario-titulo.css");
+@import url("./estilos/footer/rodape-formulario/rodapeFormulario.css");
+
+@import url("./estilos/footer/mini-rodape/miniRodape.css");
+
+.body {
+    font-family: 'Raleway', sans-serif;
+}

@@ -1,0 +1,21 @@
+.cabecalho__menu {
+    height: 114px;
+    display: flex;
+    justify-content: center;
+    max-width: 71rem;   
+    align-items: center;
+}
+
+.cabecalho-titulo__alura {
+    color: #2A7AE4;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.cabecalho-titulo__geek {
+    color: #464646;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: 'Raleway', sans-serif;
+}
